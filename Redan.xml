@@ -545,14 +545,14 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#3f414d"
+            back="#343642"
             title="#000000"
             text="#ffffff"
             text_hi="#0f0f0f"
             header="#2f313dff"
             header_text="#000000"
             header_text_hi="#ffffff"
-            button="#4f4f4fff"
+            button="#3f414dff"
             button_title="#ffffff"
             button_text="#ffffff"
             button_text_hi="#ffffff"
@@ -948,7 +948,7 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#5c5d65"
+        grid="#4c4d53"
         node_selected="#f15800"
         node_active="#9c4a4d"
         wire="#000000"
@@ -980,14 +980,14 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#3f414d"
+            back="#343642"
             title="#000000"
             text="#ffffff"
             text_hi="#ffffff"
             header="#9c4a4dff"
             header_text="#000000"
             header_text_hi="#ffffff"
-            button="#4f4f4f80"
+            button="#3f414d80"
             button_title="#000000"
             button_text="#000000"
             button_text_hi="#ffffff"
