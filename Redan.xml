@@ -851,6 +851,15 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#181818"
+            list_title="#ffffff"
+            list_text="#ffffff"
+            list_text_hi="#ffffff"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
       </ThemeSequenceEditor>
     </sequence_editor>
     <properties>
@@ -939,7 +948,7 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#aaaaaa"
+        grid="#5c5d65"
         node_selected="#f15800"
         node_active="#9c4a4d"
         wire="#000000"
