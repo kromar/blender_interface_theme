@@ -920,7 +920,7 @@
             title="#000000"
             text="#f8f8f8"
             text_hi="#ffffff"
-            header="#9c4a4dff"
+            header="#2f313dff"
             header_text="#000000"
             header_text_hi="#ffffff"
             button="#4f4f4fff"
@@ -984,11 +984,11 @@
             title="#000000"
             text="#ffffff"
             text_hi="#ffffff"
-            header="#9c4a4dff"
+            header="#2f313dff"
             header_text="#000000"
             header_text_hi="#ffffff"
             button="#3f414d80"
-            button_title="#000000"
+            button_title="#eeeeee"
             button_text="#000000"
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
@@ -1000,7 +1000,7 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#9c4a4dff"
+                header="#343642ff"
                 back="#78787880"
                 sub_back="#00000019"
                 >
@@ -1084,7 +1084,7 @@
             title="#000000"
             text="#000000"
             text_hi="#ffffff"
-            header="#9c4a4dff"
+            header="#2f313dff"
             header_text="#000000"
             header_text_hi="#ffffff"
             button="#4f4f4fff"
@@ -1159,7 +1159,7 @@
             title="#000000"
             text="#000000"
             text_hi="#ffffff"
-            header="#9c4a4dff"
+            header="#343642ff"
             header_text="#000000"
             header_text_hi="#ffffff"
             button="#4f4f4fff"
@@ -1224,11 +1224,11 @@
             title="#000000"
             text="#000000"
             text_hi="#ffffff"
-            header="#9c4a4dff"
+            header="#2f313dff"
             header_text="#000000"
             header_text_hi="#ffffff"
             button="#66666680"
-            button_title="#000000"
+            button_title="#ffffff"
             button_text="#000000"
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
@@ -1240,7 +1240,7 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#9c4a4dff"
+                header="#343642ff"
                 back="#78787880"
                 sub_back="#00000019"
                 >
