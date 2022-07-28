@@ -95,7 +95,7 @@
           <ThemeWidgetColors
             outline="#151515"
             inner="#46474fff"
-            inner_sel="#959595ff"
+            inner_sel="#984347ff"
             item="#565656ff"
             text="#fbfbfb"
             text_sel="#fbfbfb"
@@ -868,10 +868,10 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#141414"
-            list_title="#fbfbfb"
-            list_text="#fbfbfb"
-            list_text_hi="#fbfbfb"
+            list="#181818"
+            list_title="#ffffff"
+            list_text="#ffffff"
+            list_text_hi="#ffffff"
             >
           </ThemeSpaceListGeneric>
         </space_list>
@@ -918,20 +918,20 @@
       <ThemeTextEditor
         line_numbers="#cccccc"
         line_numbers_background="#3c3c3c"
-        selected_text="#c26f6f"
+        selected_text="#714e4f"
         cursor="#fb0000"
         syntax_builtin="#fbd300"
         syntax_symbols="#00fbc9"
         syntax_special="#5efb00"
         syntax_preprocessor="#310088"
         syntax_reserved="#883a00"
-        syntax_comment="#00fb40"
+        syntax_comment="#4be000"
         syntax_string="#fb682c"
         syntax_numbers="#00dbfb"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#30313e"
+            back="#000000"
             title="#131313"
             text="#f4f4f4"
             text_hi="#fbfbfb"
@@ -1037,8 +1037,8 @@
     <outliner>
       <ThemeOutliner
         match="#2e7b2e"
-        selected_highlight="#7a8188"
-        active="#365185"
+        selected_highlight="#984347"
+        active="#714e4f"
         selected_object="#fbd6a9"
         active_object="#fbfbfb"
         edited_object="#007c5f4d"
@@ -1097,7 +1097,7 @@
           <ThemeSpaceGeneric
             back="#46474f"
             title="#131313"
-            text="#131313"
+            text="#fafafa"
             text_hi="#fbfbfb"
             header="#2a2d39ff"
             header_text="#131313"
