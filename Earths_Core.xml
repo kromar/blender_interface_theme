@@ -965,7 +965,7 @@
       <ThemeNodeEditor
         grid="#46474f"
         node_selected="#ed5700"
-        node_active="#984347"
+        node_active="#f90000"
         wire="#131313"
         wire_inner="#4b4b4b"
         wire_select="#fbfbfbb3"
