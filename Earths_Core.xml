@@ -417,7 +417,7 @@
         lastsel_point="#fbfbfb"
         extra_edge_len="#fbfbfb"
         extra_edge_angle="#131313"
-        extra_face_angle="#001c00"
+        extra_face_angle="#ffffff"
         extra_face_area="#00007c"
         editmesh_active="#fbfbfb80"
         normal="#1bd9d9"
