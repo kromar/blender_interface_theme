@@ -24,9 +24,9 @@
         gizmo_b="#29222d"
         icon_scene="#ffffffff"
         icon_collection="#ffffffff"
-        icon_object="#ffaf8eff"
-        icon_object_data="#00ff1eff"
-        icon_modifier="#37ffffff"
+        icon_object="#ff9c6dff"
+        icon_object_data="#fff135ff"
+        icon_modifier="#00ffd5ff"
         icon_shading="#fbaeffff"
         icon_folder="#ff592dff"
         icon_border_intensity="0.85"
@@ -461,7 +461,7 @@
             <gradients>
               <ThemeGradientColors
                 background_type="LINEAR"
-                high_gradient="#5f5f87"
+                high_gradient="#8e879d"
                 gradient="#5c627b"
                 >
               </ThemeGradientColors>
@@ -1003,7 +1003,7 @@
             header="#c8a3afff"
             header_text="#29222d"
             header_text_hi="#ffffff"
-            button="#2a516480"
+            button="#776d8e80"
             button_title="#29222d"
             button_text="#29222d"
             button_text_hi="#ffffff"
@@ -1353,7 +1353,7 @@
             title="#ffffff"
             text="#ffffff"
             text_hi="#ffffff"
-            header="#302250b3"
+            header="#36214cb3"
             header_text="#ffffff"
             header_text_hi="#ffffff"
             button="#1f163400"
