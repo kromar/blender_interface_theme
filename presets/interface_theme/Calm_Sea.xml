@@ -95,7 +95,7 @@
           <ThemeWidgetColors
             outline="#1d1d1d"
             inner="#325a78ff"
-            inner_sel="#015f6bff"
+            inner_sel="#178076ff"
             item="#767676ff"
             text="#ffffff"
             text_sel="#ffffff"
@@ -140,7 +140,7 @@
           <ThemeWidgetColors
             outline="#1d1d1d"
             inner="#507991ff"
-            inner_sel="#015f6bff"
+            inner_sel="#178076ff"
             item="#33967eff"
             text="#ffffff"
             text_sel="#ffffff"
@@ -184,7 +184,7 @@
         <wcol_menu>
           <ThemeWidgetColors
             outline="#29222d"
-            inner="#185a7fff"
+            inner="#0f7d96ff"
             inner_sel="#1e4055ff"
             item="#ffffffff"
             text="#ffffff"
@@ -366,7 +366,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#527b917b"
+        grid="#2191787b"
         clipping_border_3d="#d2d2d2ff"
         wire="#29222d"
         wire_edit="#29222d"
@@ -1039,7 +1039,7 @@
       <ThemeOutliner
         match="#57a800"
         selected_highlight="#75bab7"
-        active="#02a1b6"
+        active="#7cb9cb"
         selected_object="#9c41ff"
         active_object="#ffffff"
         edited_object="#00aa034d"
