@@ -374,7 +374,7 @@
         gp_vertex_select="#d455d9"
         gp_vertex_size="3"
         text_grease_pencil="#ffc700"
-        object_selected="#d455d9"
+        object_selected="#864b9c"
         object_active="#9af5f2"
         text_keyframe="#ff6800"
         camera="#29222d"
@@ -1349,14 +1349,14 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#161e32"
+            back="#191732"
             title="#ffffff"
             text="#ffffff"
             text_hi="#ffffff"
-            header="#0a1c29b3"
+            header="#302250b3"
             header_text="#ffffff"
             header_text_hi="#ffffff"
-            button="#0e223400"
+            button="#1f163400"
             button_title="#ffffff"
             button_text="#ffffff"
             button_text_hi="#ffffff"
