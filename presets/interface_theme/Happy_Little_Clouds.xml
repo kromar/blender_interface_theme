@@ -976,7 +976,7 @@
         grid="#d5d2ff"
         node_selected="#ffb7d4"
         node_active="#cbff9c"
-        wire="#a4bad2ff"
+        wire="#7e8fa1ff"
         wire_inner="#fed1ff"
         wire_select="#ffffffb3"
         selected_text="#a85f5f"
@@ -986,8 +986,8 @@
         group_node="#629b5b"
         group_socket_node="#ffa646"
         frame_node="#a7d7ed80"
-        matte_node="#a4bad2"
-        distor_node="#a4bad2"
+        matte_node="#92a6bb"
+        distor_node="#92a6bb"
         noodle_curving="5"
         grid_levels="2"
         dash_alpha="0.5"
@@ -1008,11 +1008,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#a7b4e6"
-            title="#a4bad2"
+            title="#92a6bb"
             text="#1c181f"
             text_hi="#1c181f"
             header="#baddf1ff"
-            header_text="#a4bad2"
+            header_text="#92a6bb"
             header_text_hi="#1c181f"
             button="#776d8e80"
             button_title="#1c181f"
@@ -1022,7 +1022,7 @@
             execution_buts="#bbc1ffff"
             tab_active="#cfd9fc"
             tab_inactive="#fed1ff"
-            tab_back="#a4bad2ff"
+            tab_back="#92a6bbff"
             tab_outline="#4d4d4dff"
             >
             <panelcolors>
@@ -1038,8 +1038,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#cfd9fc"
-            list_title="#a4bad2"
-            list_text="#a4bad2"
+            list_title="#92a6bb"
+            list_text="#92a6bb"
             list_text_hi="#1c181f"
             >
           </ThemeSpaceListGeneric>
