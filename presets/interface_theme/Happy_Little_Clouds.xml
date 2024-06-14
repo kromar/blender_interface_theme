@@ -444,7 +444,7 @@
             execution_buts="#bbc1ffff"
             tab_active="#baddf1"
             tab_inactive="#d5d2ff"
-            tab_back="#a7b4e6ff"
+            tab_back="#efdeffff"
             tab_outline="#4d4d4dff"
             >
             <gradients>
@@ -905,7 +905,7 @@
             button_title="#29222d"
             button_text="#29222d"
             button_text_hi="#1c181f"
-            navigation_bar="#a7b4e6ff"
+            navigation_bar="#efdeffff"
             execution_buts="#4e4e4e00"
             tab_active="#cfd9fc"
             tab_inactive="#fed1ff"
@@ -1022,13 +1022,13 @@
             execution_buts="#bbc1ffff"
             tab_active="#cfd9fc"
             tab_inactive="#fed1ff"
-            tab_back="#92a6bbff"
+            tab_back="#a7b4e6ff"
             tab_outline="#4d4d4dff"
             >
             <panelcolors>
               <ThemePanelColors
                 header="#baddf1ff"
-                back="#d0daff99"
+                back="#acaed2ff"
                 sub_back="#1b1b1b19"
                 >
               </ThemePanelColors>
@@ -1380,8 +1380,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#4e4e4eff"
-                back="#4e4e4eff"
+                header="#baddf1ff"
+                back="#acaed2ff"
                 sub_back="#1b1b1b1f"
                 >
               </ThemePanelColors>
