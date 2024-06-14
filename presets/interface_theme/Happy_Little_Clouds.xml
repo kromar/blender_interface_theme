@@ -171,7 +171,7 @@
             outline="#29222dff"
             inner="#d5c4f1ff"
             inner_sel="#fed1ffff"
-            item="#1c1c1cff"
+            item="#dee5ffff"
             text="#29222d"
             text_sel="#1c181f"
             show_shaded="FALSE"
@@ -664,8 +664,8 @@
         time_marker_line_selected="#ffffff60"
         value_sliders="#29222d"
         view_sliders="#c7c7c7"
-        dopesheet_channel="#36918d24"
-        dopesheet_subchannel="#65c7c424"
+        dopesheet_channel="#a99bc924"
+        dopesheet_subchannel="#a1c7a324"
         channels="#fed1ffff"
         channels_selected="#c8ff0044"
         channel_group="#6d852b37"
@@ -760,7 +760,7 @@
         preview_stitch_stitchable="#8dff00ff"
         preview_stitch_unstitchable="#d98ac7ff"
         preview_stitch_active="#ffb1b123"
-        uv_shadow="#fed1ffff"
+        uv_shadow="#5961b8ff"
         frame_current="#9ce531"
         metadatabg="#29222d"
         metadatatext="#1c181f"
@@ -787,7 +787,7 @@
             header="#efdeffff"
             header_text="#29222d"
             header_text_hi="#1c181f"
-            button="#67676780"
+            button="#d4d4d480"
             button_title="#29222d"
             button_text="#29222d"
             button_text_hi="#1c181f"
@@ -855,7 +855,7 @@
             header="#efdeffff"
             header_text="#29222d"
             header_text_hi="#1c181f"
-            button="#67676780"
+            button="#d4d4d480"
             button_title="#29222d"
             button_text="#29222d"
             button_text_hi="#1c181f"
@@ -878,7 +878,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#1c1c1c"
+            list="#dee5ff"
             list_title="#5d4d66"
             list_text="#1c181f"
             list_text_hi="#1c181f"
@@ -916,7 +916,7 @@
               <ThemePanelColors
                 header="#a7b4e6ff"
                 back="#d5d2ffff"
-                sub_back="#1b1b1b65"
+                sub_back="#acaed265"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1375,7 +1375,7 @@
             execution_buts="#bbc1ffff"
             tab_active="#cfd9fc"
             tab_inactive="#232323"
-            tab_back="#1c1c1cff"
+            tab_back="#dee5ffff"
             tab_outline="#4e4e4eff"
             >
             <panelcolors>
