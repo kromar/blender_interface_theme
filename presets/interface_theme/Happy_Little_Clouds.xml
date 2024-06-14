@@ -35,7 +35,7 @@
           <ThemeWidgetColors
             outline="#8a94bdff"
             inner="#d5d2ffff"
-            inner_sel="#ff76dbff"
+            inner_sel="#b89bfcff"
             item="#8a94bdff"
             text="#1c181f"
             text_sel="#1c181f"
@@ -50,7 +50,7 @@
           <ThemeWidgetColors
             outline="#29222dff"
             inner="#d5d2ffff"
-            inner_sel="#ff76dbff"
+            inner_sel="#b89bfcff"
             item="#8a94bdff"
             text="#1c181f"
             text_sel="#1c181f"
@@ -80,7 +80,7 @@
           <ThemeWidgetColors
             outline="#29222dff"
             inner="#fed1ffff"
-            inner_sel="#ff76dbff"
+            inner_sel="#b89bfcff"
             item="#5d4d66ff"
             text="#1c181f"
             text_sel="#1c181f"
