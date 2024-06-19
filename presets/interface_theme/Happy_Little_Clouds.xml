@@ -139,7 +139,7 @@
         <wcol_num>
           <ThemeWidgetColors
             outline="#8a94bdff"
-            inner="#d5c4f1ff"
+            inner="#aeb9e6ff"
             inner_sel="#fec4ffff"
             item="#b9ead9ff"
             text="#1c181f"
@@ -154,7 +154,7 @@
         <wcol_numslider>
           <ThemeWidgetColors
             outline="#8a94bdff"
-            inner="#d5c4f1ff"
+            inner="#aeb9e6ff"
             inner_sel="#b3b3b3ff"
             item="#baddf1ff"
             text="#1c181f"
@@ -169,7 +169,7 @@
         <wcol_box>
           <ThemeWidgetColors
             outline="#29222dff"
-            inner="#d5c4f1ff"
+            inner="#aeb9e6ff"
             inner_sel="#fed1ffff"
             item="#dee5ffff"
             text="#29222d"
@@ -511,7 +511,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#d5c4f1"
+            back="#aeb9e6"
             title="#29222d"
             text="#1c181f"
             text_hi="#1c181f"
